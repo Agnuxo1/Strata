@@ -25,6 +25,10 @@
 
 **Free, open source, and yours to run.** Use Strata on your desktop or with your favorite coding tools. No account needed.
 
+<!-- impact-note:start -->
+<sub><strong>Efficiency and practical value.</strong> This fork retains the upstream Strata project's approach to running supported AI models on existing computers through quantisation and the use of GPU, system memory and, where supported, SSD storage. Its desktop and terminal workflows simplify local deployment and reuse of compatible hardware. Speed, memory use and compatibility depend on the selected model and backend; see the <a href="docs/AI_REFERENCE.md">technical reference</a>.</sub>
+<!-- impact-note:end -->
+
 ## Models
 
 We recommend **ISTA-DASLab first**, then **Unsloth** and other providers, where a compatible model fits.
